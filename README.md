@@ -1,6 +1,6 @@
 # ML Project: Sentiment Analysis on Amazon Reviews
 
-##Original Data and Transposition 
+## Original Data and Transposition 
 
 ### Original data dictionary
 res = {'A': {'neg': 0.1, 'neu': 0.8, 'pos': 0.1},
