@@ -20,3 +20,6 @@ print(vaders)
 |----|-----|-----|-----|------|
 | A  | 0.1 | 0.8 | 0.1 | info1|
 | B  | 0.2 | 0.6 | 0.2 | info2|
+
+
+![positive negative neutral Example Table](images/posnegneu_table.png)
